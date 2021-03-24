@@ -2,6 +2,8 @@
 Tool that you can use to check if your password is secure, using the https://haveibeenpwned.com/ API. Input a password and check if it has been hacked.
 
 
+![pass_checker_abdelrhman](https://user-images.githubusercontent.com/41340967/112235775-fff8e380-8c47-11eb-82aa-526371f8fb5d.png)
+
 
 
 we are going to use 2 types of methods to check :
