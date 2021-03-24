@@ -47,7 +47,7 @@ OUR API:
 - But remember even though this website is trustworthy which also uses https a secured way of transferring data, yet we should not trust because the best security is to trust no one.
 - Because what happens here is, whenever we enter our passwords or emails it will be transferred to the servers somewhere around the world throught the internet.
 - And that is why we build our own tool in our own PC to securely check our passwords.
-- And this above mentioned website gives us a API called Password API using which we will be builiding our tool.
+- And this above mentioned website gives us an API called Password API which we will be using to build our tool.
 
 
 HASH Functions :
