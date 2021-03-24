@@ -21,11 +21,11 @@ we are going to use 2 types of methods to check :
 
 2. Using Text File
 
-   ->> In second type we are going to save our passwords in simple text file that is .txt .
+->> In second type we are going to save our passwords in simple text file that is .txt .
 
-   ->> We then open our text file and read our passwords line by line.
+->> We then open our text file and read our passwords line by line.
 
-   ->> Here also we can save any number of passwords.
+->> Here also we can save any number of passwords.
 
 
 ---
